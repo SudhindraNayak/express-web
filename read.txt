@@ -1,0 +1,7 @@
+to get the mail service 
+
+go to contact.js
+
+find your-mail-id
+type in mail
+and also password
